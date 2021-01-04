@@ -1,0 +1,47 @@
+.navbar
+{
+    background-color:rgba(0, 0, 0, 0.753);
+    text-align:center;
+    color:whitesmoke;
+    width:100%;
+    height:100px;
+    padding:50px;
+    font-size:10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.foot{
+    padding:50px;
+    text-align:center;
+    border-left-style: dashed;
+    border-right-style: double;
+    border-color: red;
+    font-size:"60px";
+    background-color: violet;
+}
+.todo-list{
+    background-color:whitesmoke;
+    
+    margin:10px;
+    margin-left:13cm;
+    text-align:center;
+    border:1px solid green;
+    width:150;
+    display: flex;
+    flex-direction: column;
+    padding:30px;
+    
+}
+.todo-item
+{   display:flex;
+    justify-content: flex-start;
+    font-family: cursive;
+    align-items:center;
+    padding:30px 20px 0;
+    font-size:15px;
+}
+.jok{
+    width:50%;
+    border:1px solid black;
+    background-color:whitesmoke;
+    text-align:center;
+}
